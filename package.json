@@ -9,5 +9,16 @@
   },
   "scripts": {
     "start": "node server.js"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haz314/starwars-express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haz314/starwars-express/issues"
+  },
+  "homepage": "https://github.com/haz314/starwars-express#readme"
 }
